@@ -1,0 +1,12 @@
+@import "../../../themes/colors.scss";
+@import "../../../themes/constant.style.scss";
+
+.txt-input {
+    border: none;   
+    font-size: $font-txt-input;
+    height: 40px;
+    border-bottom: 1px solid $border-color;
+    width: 100%;
+    text-align: center;
+    color: black;
+}

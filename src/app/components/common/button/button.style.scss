@@ -1,0 +1,19 @@
+@import "../../../themes/colors.scss";
+@import "../../../themes/constant.style.scss";
+
+.btn-style {
+ padding: 0px 20px;
+  border-radius: 4px;
+  height: $button-height;
+  font-size: $font-btn-title;
+  border:none;
+  outline: none;
+  box-shadow: none;
+  color: $white-color;
+  background-color: #2f3690;
+}
+
+.btn-style:hover {
+  background-color: $white-color;
+  color: $primary-color;
+}

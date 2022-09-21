@@ -1,0 +1,135 @@
+export const inputData = [
+  {
+    lable: "Name",
+    key: "name",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter name",
+  },
+  {
+    lable: "Email",
+    key: "email",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter Email",
+  },
+  {
+    lable: "Address",
+    key: "address",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter address",
+  },
+  {
+    lable: "Logo(URL)",
+    key: "logo",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter logo url",
+  },
+  {
+    lable: "Banner(URL)",
+    key: "banner",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter banner url",
+  },
+];
+
+export const adminUserInput = [
+  {
+    lable: "First Name",
+    key: "firstName",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter first name",
+  },
+  {
+    lable: "Last Name",
+    key: "lastName",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter last name",
+  },
+  {
+    lable: "Email",
+    key: "email",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter Email",
+  },
+  {
+    lable: "Phone Number",
+    key: "phoneNumber",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter phone Number with dial code",
+  },
+];
+
+export const adminEntityInput = [
+  {
+    lable: "Name",
+    key: "name",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter name",
+  },
+  {
+    lable: "Type",
+    key: "type",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter type",
+  },
+  {
+    lable: "Latitude",
+    key: "latitude",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter latitude",
+  },
+  {
+    lable: "Longitude",
+    key: "longitude",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter longitude",
+  },
+  {
+    lable: "Contact No",
+    key: "contactNo",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter contactNo",
+  },
+  {
+    lable: "Contact Email",
+    key: "contactEmail",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter contact Email",
+  },
+  {
+    lable: "Description1",
+    key: "description1",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter description1",
+  },
+  {
+    lable: "Description2",
+    key: "description2",
+    value: "",
+    isRequire: true,
+    errMsg: "Please enter description2",
+  },
+  {
+    lable: "Eligible For Access",
+    key: "eligibleForAccess",
+    value: false,
+    isRequire: true,
+    errMsg: "Please enter eligible For Access",
+    type: "switch",
+  },
+];

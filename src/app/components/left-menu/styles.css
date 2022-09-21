@@ -1,0 +1,75 @@
+.div-left-menu, .div-left-menu-small {
+    width: 15vw;
+    background-color: #1a1e38;
+    transition: 180ms;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.div-left-menu-close {
+    width: 6vw;
+    transition: 320ms;
+    background-color: #1a1e38;
+}
+
+.show-text {
+    margin-left: 10px;
+    transition: 320ms;
+    color: white;
+}
+
+.hidden-txt {
+    /* display: none; */
+    margin-left: -100px;
+    transition: 320ms;
+    color: white;
+}
+
+.div-left-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.div-left-menu-small ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.div-left-menu li {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    width: 12vw;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+}
+
+.div-left-menu-small li {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    width: 3.5vw;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+}
+
+
+.div-left-menu li:hover {
+    background-color: #1a2569;
+    border-radius: 10px;
+}
+
+.div-left-menu-small li:hover {
+    background-color: #1a2569;
+    border-radius: 10px;
+}

@@ -1,0 +1,134 @@
+{
+    "client": {
+        "name": "John",
+        "email": "john1@trishool.com",
+        "address": "Mumbai",
+        "logo": "https://google.com",
+        "banner": "https://google.com",
+        "entities": [
+            {
+                "name": "John",
+                "type": "Admin",
+                "latitude": "23.221",
+                "longitude": "27.112",
+                "contactNo": "+911234567890",
+                "contactEmail": "john1@trishool.com",
+                "description1": "desc1",
+                "description2": "desc2",
+                "eligibleForAccess": true,
+                "parentEntity": null,
+                "client": null,
+                "childEntities": [],
+                "users": [
+                    {
+                        "firstName": "John",
+                        "lastName": "Cena",
+                        "userName": "JohnCena",
+                        "email": "john1@trishool.com",
+                        "phoneNumber": "+911234567890",
+                        "type": "ClientAdmin",
+                        "entity": null,
+                        "client": null,
+                        "id": "08da50f8-d7b8-4881-8947-eb386fc641f1",
+                        "isActive": true,
+                        "createdBy": "08da48b4-a835-4323-892b-e518b93dbf1d",
+                        "createdByDate": "2022-06-18T07:04:52.7624626Z",
+                        "modifiedBy": null,
+                        "modifiedByDate": null
+                    }
+                ],
+                "id": "08da50f8-d6d6-466f-872e-4b0fc27d4e0c",
+                "isActive": true,
+                "createdBy": "08da48b4-a835-4323-892b-e518b93dbf1d",
+                "createdByDate": "2022-06-18T07:04:51.2832374Z",
+                "modifiedBy": null,
+                "modifiedByDate": null
+            }
+        ],
+        "users": [
+            {
+                "firstName": "John",
+                "lastName": "Cena",
+                "userName": "JohnCena",
+                "email": "john1@trishool.com",
+                "phoneNumber": "+911234567890",
+                "type": "ClientAdmin",
+                "entity": {
+                    "name": "John",
+                    "type": "Admin",
+                    "latitude": "23.221",
+                    "longitude": "27.112",
+                    "contactNo": "+911234567890",
+                    "contactEmail": "john1@trishool.com",
+                    "description1": "desc1",
+                    "description2": "desc2",
+                    "eligibleForAccess": true,
+                    "parentEntity": null,
+                    "client": null,
+                    "childEntities": [],
+                    "users": [
+                        null
+                    ],
+                    "id": "08da50f8-d6d6-466f-872e-4b0fc27d4e0c",
+                    "isActive": true,
+                    "createdBy": "08da48b4-a835-4323-892b-e518b93dbf1d",
+                    "createdByDate": "2022-06-18T07:04:51.2832374Z",
+                    "modifiedBy": null,
+                    "modifiedByDate": null
+                },
+                "client": null,
+                "id": "08da50f8-d7b8-4881-8947-eb386fc641f1",
+                "isActive": true,
+                "createdBy": "08da48b4-a835-4323-892b-e518b93dbf1d",
+                "createdByDate": "2022-06-18T07:04:52.7624626Z",
+                "modifiedBy": null,
+                "modifiedByDate": null
+            },
+            {
+                "firstName": "John",
+                "lastName": "Cena",
+                "userName": "JohnCena",
+                "email": "john1@trishool.com",
+                "phoneNumber": "+911234567890",
+                "type": "ClientAdmin",
+                "entity": {
+                    "name": "John",
+                    "type": "Admin",
+                    "latitude": "23.221",
+                    "longitude": "27.112",
+                    "contactNo": "+911234567890",
+                    "contactEmail": "john1@trishool.com",
+                    "description1": "desc1",
+                    "description2": "desc2",
+                    "eligibleForAccess": true,
+                    "parentEntity": null,
+                    "client": null,
+                    "childEntities": [],
+                    "users": [
+                        null
+                    ],
+                    "id": "08da50f8-d6d6-466f-872e-4b0fc27d4e0c",
+                    "isActive": true,
+                    "createdBy": "08da48b4-a835-4323-892b-e518b93dbf1d",
+                    "createdByDate": "2022-06-18T07:04:51.2832374Z",
+                    "modifiedBy": null,
+                    "modifiedByDate": null
+                },
+                "client": null,
+                "id": "08da50f8-d7b8-4881-8947-eb386fc641f1",
+                "isActive": true,
+                "createdBy": "08da48b4-a835-4323-892b-e518b93dbf1d",
+                "createdByDate": "2022-06-18T07:04:52.7624626Z",
+                "modifiedBy": null,
+                "modifiedByDate": null
+            }
+        ],
+        "id": "08da50f8-d6d6-4584-8cc4-0679e78e7f9c",
+        "isActive": true,
+        "createdBy": "08da48b4-a835-4323-892b-e518b93dbf1d",
+        "createdByDate": "2022-06-18T07:04:51.2828462Z",
+        "modifiedBy": null,
+        "modifiedByDate": null
+    },
+    "password": "k))5MQYU"
+}

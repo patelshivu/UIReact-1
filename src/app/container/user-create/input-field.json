@@ -1,0 +1,54 @@
+[
+    {
+        "label": "First Name",
+        "key": "firstName",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter first name"
+    },
+    {
+        "label": "Last Name",
+        "key": "lastName",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter last name"
+    },
+    {
+        "label": "Email",
+        "key": "email",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter email"
+    },
+    {
+        "label": "Phone No.",
+        "key": "phoneNumber",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter phone number"
+    },
+    {
+        "label": "Type",
+        "key": "type",
+        "value": "--Select--",
+        "isRequire": true,
+        "errMsg": "Please select type",
+        "type": "dropdown"
+    },
+    {
+        "label": "Client",
+        "key": "clientId",
+        "value": "--Select--",
+        "isRequire": true,
+        "errMsg": "Please select client",
+        "type": "dropdown"
+    },
+    {
+        "label": "Entity Id",
+        "key": "entityId",
+        "value": "--Select--",
+        "isRequire": true,
+        "type": "dropdown",
+        "errMsg": "Please select Entity"
+    }
+]

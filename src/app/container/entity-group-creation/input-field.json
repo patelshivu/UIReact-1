@@ -1,0 +1,73 @@
+[
+    {
+        "label": "Name",
+        "key": "name",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter name"
+    },
+    {
+        "label": "Type",
+        "key": "type",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter type"
+    },
+    {
+        "label": "Latitude",
+        "key": "latitude",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter latitude"
+    },
+    {
+        "label": "Longitude",
+        "key": "longitude",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter longitude"
+    },
+    {
+        "label": "Contact Info",
+        "key": "contactNo",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter contact No"
+    },
+    {
+        "label": "Email",
+        "key": "contactEmail",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter contact Email"
+    },
+    {
+        "label": "Description 1",
+        "key": "description1",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter description 1"
+    },
+    {
+        "label": "Description 2",
+        "key": "description2",
+        "value": "",
+        "isRequire": true,
+        "errMsg": "Please enter description 2"
+    },
+    {
+        "label": "Eligible For Access",
+        "key": "eligibleForAccess",
+        "value": false,
+        "isRequire": true,
+        "type": "switch"
+    },
+    {
+        "label": "Parent Entity",
+        "key": "selectParentEntity",
+        "value": "--Select--",
+        "isRequire": true,
+        "type": "dropdown",
+        "errMsg": "Please select Parent Entity"
+    }
+]
