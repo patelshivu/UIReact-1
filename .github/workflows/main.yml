@@ -34,3 +34,18 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+          
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2-beta
+        with: 
+            version: 12
+        
+      - name: GitHub Action for Yarn
+        uses: Borales/actions-yarn@v2.1.0
+        with:
+            # Yarn command
+            cmd: npm install # npm install
+    
+      - name: Creating build
+        run: npm run build
